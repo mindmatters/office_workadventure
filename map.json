@@ -66,6 +66,11 @@
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Leertaste f\u00fcr Zoomlink"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
